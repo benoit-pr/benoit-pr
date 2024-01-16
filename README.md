@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @benoit-pr
-- Data Science / Machine Learning Student
+@benoit-pr
+Data Science / Machine Learning Student
 
 <!---
 benoit-pr/benoit-pr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
