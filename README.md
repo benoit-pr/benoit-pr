@@ -1,5 +1,5 @@
-@benoit-pr
-Freelance Data Scientist / Machine Learning, Deep Learning, Computer Vision
+@benoit-pr <br>
+Freelance Data Scientist / Machine Learning, Deep Learning, Computer Vision <br>
 benoit.durausas@gmail.com
 
 <!---
